@@ -31,7 +31,11 @@ This is where we include some basic functions such as
 4. AVERAGE
 5. COUNTIF
    
-
+This is where we include some basic lines of codes or queries.
+``` SQL
+SELECT * from EMPLOYEE
+Where firstname = 'ADEBAYO'
+```
 
 
 
