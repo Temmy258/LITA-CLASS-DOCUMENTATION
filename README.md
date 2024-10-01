@@ -23,6 +23,15 @@ In this stage of data cleaning, we have the perfom the following:
 1. Data loading and inspection
 2. Data cleaning and inspection
 
+#### Data Analysis
+This is where we include some basic functions such as 
+1. COUNT
+2. MAXIF
+3. SUMIF
+4. AVERAGE
+5. COUNTIF
+   
+
 
 
 
