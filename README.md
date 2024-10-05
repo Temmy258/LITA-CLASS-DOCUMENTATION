@@ -48,7 +48,7 @@ Where firstname = 'ADEBAYO'
 
 ##### Data Visualization![Bar Chart](https://github.com/user-attachments/assets/272216b0-0c11-495b-bc12-8b2898a8d200)
 
-###### ![Chart 2](https://github.com/user-attachments/assets/b6a7e04b-9dd0-4c63-9d4f-40a64134630b
+###### ![Chart 2](https://github.com/user-attachments/assets/b6a7e04b-9dd0-4c63-9d4f-40a64134630b)
 
 This is presenting our results using charts,graphs and other visualization tools.
 
