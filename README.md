@@ -38,5 +38,7 @@ Where firstname = 'ADEBAYO'
 ```
 
 
+##### Data Visualization
+![Bar Chart](https://github.com/user-attachments/assets/a9a7f654-8d6c-4304-9bb0-369970dc75b9)
 
-
+###
