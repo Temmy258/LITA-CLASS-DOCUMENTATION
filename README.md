@@ -42,9 +42,9 @@ Where firstname = 'ADEBAYO'
 
 ###### ![Chart 2](https://github.com/user-attachments/assets/b6a7e04b-9dd0-4c63-9d4f-40a64134630b)
 
-
-
-
+|Heading 1|Heading 2|
+|---------|---------|
+|Table 1|Table 2|
 
 
 
