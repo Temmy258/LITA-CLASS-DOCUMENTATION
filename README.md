@@ -2,6 +2,14 @@
 
 ## Project Title: Data Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Visualization
+
 ### Project Overview
 The primary aim of the project is to able to acquire knowledge and skills on data analysis. The focus will be on understanding,presenting and interpreting data adequately to get meaningful results. By the end of this project,i aim to be able to develop skills in using data analysis tools,interpreting data and present my findings appropriately.
 
