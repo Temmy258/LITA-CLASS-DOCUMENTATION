@@ -18,7 +18,7 @@ The data set for analysis will be selected form an open source platforms provide
 
 ##### Tools Used
 Throughout the training i will be using the following tools and software
-- Mircosoft Excel
+- Mircosoft Excel[download here](C:\Users\User\Documents\LITA CAPSTONE 3.xlsx)
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualisation
